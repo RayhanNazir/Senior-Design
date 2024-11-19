@@ -15,10 +15,8 @@
 - [Appendix](#appendix)
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Rayhan Nazir
+- Ethan VanDeusen
 
 ## Project Advisor
 - Advisor Name
@@ -26,21 +24,19 @@
 ## Project Description
 Provide a brief overview of the project, its goals, and objectives.
 
-## User Stories
-- As a [user type], I want to [goal], so that [reason].
-- As a [user type], I want to [goal], so that [reason].
-
-## Design Diagrams
+## User Stories and Design Diagram
 - [Design Diagram](Design%20Diagram/Design%20Diagram.pdf)
 
-## Project Tasks
+## Project Tasks and Timeline
 - [Project Tasks](Homework-Assignments/Assignment%205.md)
-
-## Project Timeline
+  
 - [Project Timeline](Homework-Assignments/Assignment%206.md)
 
+## ABET Concerns Essay
+- [ABET Concerns Essay](Homework-Assignments/Assignment%207.md)
+
 ## Slide Show
-Link to the project presentation.
+- [ABET Concerns Essay](Homework-Assignments/Assignment%207.md)
 
 ## Self-Assessment Essays
 Link to self-assessment essays.
