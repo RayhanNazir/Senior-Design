@@ -34,9 +34,7 @@ Provide a brief overview of the project, its goals, and objectives.
 - [Design Diagram](Design%20Diagram/Design%20Diagram.pdf)
 
 ## Project Tasks
-- Task 1
-- Task 2
-- Task 3
+- [Project Tasks](Homework-Assignments/Assignment%205.md)
 
 ## Project Timeline
 - [Project Timeline](Homework-Assignments/Assignment%206.md)
