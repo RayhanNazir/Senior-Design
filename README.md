@@ -44,7 +44,9 @@ Provide a brief overview of the project, its goals, and objectives.
 - [Self Assessment Essays - Ethan](Homework-Assignments/Self%20Assessment%20Ethan.md)
 
 ## Professional Biographies
-Link to team members' professional biographies.
+- [Professional Biographies - Rayhan](Homework-Assignments/Rayhan%20Biography.pdf)
+  
+- [Professional Biographies - Ethan](Homework-Assignments/Professional%20Bio%20Ethan.pdf)
 
 ## Budget
 Detail the project's budget and financial considerations.
