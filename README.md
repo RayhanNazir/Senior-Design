@@ -39,7 +39,9 @@ Provide a brief overview of the project, its goals, and objectives.
 - [ABET Concerns Essay](Homework-Assignments/Assignment%207.md)
 
 ## Self-Assessment Essays
-Link to self-assessment essays.
+- [Self Assessment Essays - Rayhan](Homework-Assignments/RayhanSelfEssay.md)
+
+- [Self Assessment Essays - Ethan](Homework-Assignments/Self%20Assessment%20Ethan.md)
 
 ## Professional Biographies
 Link to team members' professional biographies.
