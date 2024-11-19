@@ -49,7 +49,7 @@ Provide a brief overview of the project, its goals, and objectives.
 - [Professional Biographies - Ethan](Homework-Assignments/Professional%20Bio%20Ethan.pdf)
 
 ## Budget
-Detail the project's budget and financial considerations.
+No Budget at the current moment.
 
 ## Appendix
 Include any additional information or resources.
