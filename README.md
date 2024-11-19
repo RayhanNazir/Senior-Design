@@ -1,5 +1,5 @@
 # Project Title
-
+- Personalized Bird Feeder App
 ## Table of Contents
 - [Team Members](#team-members)
 - [Project Advisor](#project-advisor)
