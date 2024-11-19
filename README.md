@@ -36,7 +36,7 @@ Provide a brief overview of the project, its goals, and objectives.
 - [ABET Concerns Essay](Homework-Assignments/Project%20Constraints%20Essay.md)
 
 ## Slide Show
-- [ABET Concerns Essay](Homework-Assignments/PPT%20Slideshow.md)
+- [ABET Concerns Essay](Homework-Assignments/PPT%20Slideshow.pdf)
 
 ## Self-Assessment Essays
 - [Self Assessment Essays - Rayhan](Homework-Assignments/RayhanSelfEssay.md)
