@@ -39,7 +39,7 @@ Provide a brief overview of the project, its goals, and objectives.
 - Task 3
 
 ## Project Timeline
-Outline the project phases and their respective timelines.
+- [Project Timeline](Homework-Assignments/Assignment%206.md)
 
 ## Slide Show
 Link to the project presentation.
