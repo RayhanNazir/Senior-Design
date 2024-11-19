@@ -25,15 +25,15 @@
 Provide a brief overview of the project, its goals, and objectives.
 
 ## User Stories and Design Diagram
-- [Design Diagram](Design%20Diagram/Design%20Diagram.pdf)
+- [Design Diagram](Homework-Assignments/Design%20Diagram.pdf)
 
 ## Project Tasks and Timeline
-- [Project Tasks](Homework-Assignments/Assignment%205.md)
+- [Project Tasks](Homework-Assignments/Task%20Lists.md)
   
-- [Project Timeline](Homework-Assignments/Assignment%206.md)
+- [Project Timeline](Homework-Assignments/Milestones,%20Timeline,%20and%20Effort%20Matrix.md)
 
 ## ABET Concerns Essay
-- [ABET Concerns Essay](Homework-Assignments/Assignment%207.md)
+- [ABET Concerns Essay](Homework-Assignments/Project%20Constraints%20Essay.md)
 
 ## Slide Show
 - [ABET Concerns Essay](Homework-Assignments/Assignment%207.md)
