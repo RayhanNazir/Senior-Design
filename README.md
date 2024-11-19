@@ -5,7 +5,7 @@
 - [Project Advisor](#project-advisor)
 - [Project Description](#project-description)
 - [User Stories](#user-stories)
-- [Design Diagrams](#design-diagrams)
+- [Design Diagrams](../Design Diagram/Design Diagram.pdf)
 - [Project Tasks](#project-tasks)
 - [Project Timeline](#project-timeline)
 - [Slide Show](#slide-show)
