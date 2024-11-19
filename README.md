@@ -31,7 +31,7 @@ Provide a brief overview of the project, its goals, and objectives.
 - As a [user type], I want to [goal], so that [reason].
 
 ## Design Diagrams
-- [Design Diagram](Senior-Design/Design%20Diagram/Design%20Diagram.pdf)
+- [Design Diagram]Design%20Diagram/Design%20Diagram.pdf)
 
 ## Project Tasks
 - Task 1
