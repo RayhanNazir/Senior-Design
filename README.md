@@ -1,7 +1,7 @@
 # AI Bird Feeder
 
 ## Table of Contents
-- [Team Members](#team-members)
+- [Team Members](Senior-Design)
 - [Project Advisor](#project-advisor)
 - [Project Description](#project-description)
 - [User Stories](#user-stories)
@@ -31,7 +31,7 @@ Provide a brief overview of the project, its goals, and objectives.
 - As a [user type], I want to [goal], so that [reason].
 
 ## Design Diagrams
-Include links or images of design diagrams.
+- [Design Diagrams](Design Diagram/Design Diagram.pdf)
 
 ## Project Tasks
 - Task 1
