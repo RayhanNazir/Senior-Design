@@ -1,4 +1,4 @@
-# AI Bird Feeder
+# Smart Bird Feeder
 
 ## Table of Contents
 - [Team Members](#Team-Members)
