@@ -25,7 +25,7 @@
 Provide a brief overview of the project, its goals, and objectives.
 
 ## User Stories and Design Diagram
-- [Design Diagram](Homework-Assignments/Design%20Diagram.pdf)
+- [Design Diagram](Homework-Assignments/DesignDiagram.pdf)
 
 ## Project Tasks and Timeline
 - [Project Tasks](Homework-Assignments/Task%20Lists.md)
