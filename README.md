@@ -49,13 +49,12 @@ Provide a brief overview of the project, its goals, and objectives.
 - [Professional Biographies - Ethan](Homework-Assignments/Professional%20Bio%20Ethan.pdf)
 
 ## Budget
-No Budget at the current moment.
-
+- [Budget](Project-Management/Budget.md)
 ## Appendix
 References:
-
+- [Planed Bird API](https://universe.roboflow.com/leem-pf8fb/bird-v2?ref=blog.roboflow.com)
 Project Code:
+- [Test Project](SmartBirdFeederCode)
 
 Time Tracking:
-
-Meeting Notes:
+- [Time Tracking](Project-Management/Time%20Tracking.md) 
