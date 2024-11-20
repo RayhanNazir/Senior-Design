@@ -52,4 +52,10 @@ Provide a brief overview of the project, its goals, and objectives.
 No Budget at the current moment.
 
 ## Appendix
-Include any additional information or resources.
+References:
+
+Project Code:
+
+Time Tracking:
+
+Meeting Notes:
