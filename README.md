@@ -1,7 +1,7 @@
 # AI Bird Feeder
 
 ## Table of Contents
-- [Team Members](Senior-Design)
+- [Team Members](#Team-Members)
 - [Project Advisor](#project-advisor)
 - [Project Description](#project-description)
 - [User Stories](#user-stories)
