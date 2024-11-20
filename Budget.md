@@ -1,4 +1,4 @@
-# Project Budget Document
+# Project Budget
 
 ## 1. Raspberry Pi
 - **Price**: $55  
