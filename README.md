@@ -32,6 +32,10 @@ Provide a brief overview of the project, its goals, and objectives.
   
 - [Project Timeline](Homework-Assignments/Milestones,%20Timeline,%20and%20Effort%20Matrix.md)
 
+- [Milestones](Homework-Assignments/Task%20Lists.md)
+ 
+- [Effort Matrix](Homework-Assignments/Task%20Lists.md)
+
 ## ABET Concerns Essay
 - [ABET Concerns Essay](Homework-Assignments/Project%20Constraints%20Essay.md)
 
