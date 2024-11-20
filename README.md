@@ -4,7 +4,7 @@
 - [Team Members](#Team-Members)
 - [Project Advisor](#project-advisor)
 - [Project Description](#project-description)
-- [User Stories](#user-stories)
+- [User Stories](#User-Stories-and-Design-Diagram)
 - [Design Diagrams](#User-Stories-and-Design-Diagram)
 - [Project Tasks](#project-tasks)
 - [Project Timeline](#project-timeline)
