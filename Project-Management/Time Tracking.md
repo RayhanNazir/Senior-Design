@@ -1,18 +1,17 @@
 # Project Timeline: Smart Bird Feeder  
 
-| Week       | Ethan's Hours | Ethan's Tasks                                | Rayhan's Hours | Rayhan's Tasks                                |
-|------------|---------------|----------------------------------------------|----------------|-----------------------------------------------|
-| 09/01/24   |               |                                              |                |                                               |
-| 09/08/24   |               |                                              |                |                                               |
-| 09/15/24   |               |                                              |                |                                               |
-| 09/22/24   |               |                                              |                |                                               |
-| 09/29/24   |               |                                              |                |                                               |
-| 10/06/24   |               |                                              |                |                                               |
-| 10/13/24   |               |                                              |                |                                               |
-| 10/20/24   |               |                                              |                |                                               |
-| 10/27/24   |               |                                              |                |                                               |
-| 11/03/24   |               |                                              |                |                                               |
-| 11/10/24   |               |                                              |                |                                               |
-| 11/17/24   |               |                                              |                |                                               |
-| **Total**  |               |                                              |                |                                               |
-
+| Week       | Ethan's Hours | Ethan's Tasks                                | Rayhan's Hours | Rayhan's Tasks                                | Sunday Meeting Hours | Meeting Notes                                                                                     |
+|------------|---------------|----------------------------------------------|----------------|-----------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------|
+| 09/01/24   |               |                                              |                |                                               | 3                     | Assignment 2: Project description and team formation. Formed team and brainstormed ideas. |
+| 09/08/24   | 1             | Individual Capstone Assessment               | 1              | Individual Capstone Assessment                | 1                     | Assignment 3: Team contract and capstone assessments. Team meeting, individual tasks.|
+| 09/15/24   | 2             | Project Brainstorming and research           |                |                                               | 3                     | Assignment 4: Design Diagrams and User Stories. Worked on diagrams and stories.          |
+| 09/22/24   | 3             | Project Solution research                    |                |                                               | 1                     | Assignment 5: Task list. Developed and finalized project tasks.                           |
+| 09/29/24   | 2             | Compare possible ID libraries                |                |                                               | 3                     | Assignment 6: Milestone document, timeline, and effort matrix. Comprehensive planning.   |
+| 10/06/24   | 3             | Hardware research                            | 3              | Hardware research                             | 2                     | Assignment 7: Constraints essay. Discussed and wrote essay.                              |
+| 10/13/24   | 3             | Raspberry Pi research                        |                |                                               | 2                     | Assignment 8: Fall Design Presentation. Planning and working on presentation.            |
+| 10/20/24   |               | QML research and project setup               |                |                                               | 2                     | Assignment 8 (cont.): Finalizing presentation, practicing, and recording final video.     |
+| 10/27/24   | 2             | QML research and testing with OpenCV         |                |                                               | 2                     | Assignment 9: Peer reviews. Reviewed and provided feedback.                               |
+| 11/03/24   |               |                                              |                |                                               | 2                     | Assignment 10: Final Design Report. Check-in meeting to plan and start updating documents. |
+| 11/10/24   | 2             | API Testing                                  |                |                                               | 2                     | Check-in meeting: Continued updating documents for Final Design Report.                   |
+| 11/17/24   |               |                                              |                |                                               | 2                     | Continued working on Final Design Report. Finalized documentation and began GitHub uploads.|
+| **Total**  |**20**         |                                              |**20**          |                                               | **25**                |                                                                                                   |
