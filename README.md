@@ -19,8 +19,8 @@
 - Ethan VanDeusen
 
 ## Project Advisor
-- Advisor Name
-
+- Mike Bailey
+  
 ## Project Description
 This project aims to design a smart bird feeder that utilizes computer vision and machine learning to automatically identify bird species, offering users valuable insights into local bird populations. By capturing and analyzing visual data, the system will provide species identification and track activity patterns, stored in a database for easy access and historical reference. Key features include a user-friendly interface for viewing bird information, a low-cost, sustainable hardware setup using a Raspberry Pi, and efficient data storage and retrieval. This project promotes wildlife observation, education, and conservation awareness through accessible technology and data.
 
