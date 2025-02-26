@@ -1,69 +1,86 @@
-import QtQuick 2.15
-import QtQuick.Controls 2.15
+// Smart Bird Feeder v1
+// Ethan Van Deusen & Rayhan Nazir
 
-ApplicationWindow {
+// main.qml is the main UI file, contains UI components and basic interactions, for more complicated actions the components are connected to Python functions
+
+import QtQuick 6.8
+import QtQuick.Controls 6.8
+
+Window {
+    id: mainWindow
     visible: true
     width: 800
-    height: 600
+    height: 500
     title: "Smart Bird Feeder"
-    color: "#F3F4F6"
+    color: "#2C3E50"
 
+    FontLoader {
+        id: customFont
+        source: "fonts/Montserrat-Bold.ttf"
+    }
+
+    // Main layout container
     Column {
         anchors.centerIn: parent
-        spacing: 15
+        spacing: 20
 
-        // Title Text
         Text {
+            id: titleText
             text: "Smart Bird Feeder"
-            font.pixelSize: 28
-            font.bold: true
-            color: "#2C3E50"
+            font.pixelSize: 32
+            font.family: customFont.name
+            color: "#1ABC9C"
             anchors.horizontalCenter: parent.horizontalCenter
         }
 
-        // Description Text
         Text {
-            text: "A project to monitor and study bird activity using smart technology."
-            font.pixelSize: 16
+            id: descText
+            text: "Monitor and track birds with our smart feeder!"
+            font.pixelSize: 18
             font.family: "Arial"
-            color: "#34495E"
+            color: "#ECF0F1"
             anchors.horizontalCenter: parent.horizontalCenter
-            wrapMode: Text.WordWrap
-            width: parent.width * 0.9
         }
 
-        Button {
-            width: 150
+        Rectangle {
+            id: menuBar
+            width: parent.width
             height: 50
-            anchors.horizontalCenter: parent.horizontalCenter
+            color: "#34495E"
 
-            background: Rectangle {
-                color: "#1ABC9C" // Button color
-                radius: 10
-            }
-            contentItem: Text {
-                text: "Open Camera"
-                color: "white" // Button text color
-                horizontalAlignment: Text.AlignHCenter
-                verticalAlignment: Text.AlignVCenter
-                font.pixelSize: 18
-                font.bold: true
-            }
+            Row {
+                anchors.centerIn: parent
+                spacing: 20
 
-            onClicked: {
-                console.log("Camera button clicked")
-
-                // Create and show the new window
-                var component = Qt.createComponent("CamDisplay.qml")
-                if (component.status === Component.Ready) {
-                    var camWindow = component.createObject(null)
-                    camWindow.show()
-                } else {
-                    console.log("Error loading CamDisplay.qml: " + component.errorString())
+                Button {
+                    font.pixelSize: 16
+                    font.bold: true
+                    background: Rectangle {
+                        color: "#1ABC9C"
+                        radius: 10
+                    }
+                    contentItem: Text {
+                        text: "Open Camera Window"
+                        color: "white"
+                        font.pixelSize: parent.font.pixelSize
+                        font.bold: parent.font.bold
+                        anchors.centerIn: parent
+                    }
+                    onClicked: {
+                        console.log("Open Camera Window button pressed")
+                        var cameraWindowComponent = Qt.createComponent("CameraWindow.qml")
+                        if (cameraWindowComponent.status === Component.Ready) {
+                            var cameraWindow = cameraWindowComponent.createObject(mainWindow)
+                            cameraWindow.show()
+                        } else {
+                            console.log("Error loading CameraWindow.qml")
+                        }
+                    }
                 }
             }
-
         }
-
+    }
+    Component.onCompleted: {
+        console.log("Main Window Created");
     }
 }
