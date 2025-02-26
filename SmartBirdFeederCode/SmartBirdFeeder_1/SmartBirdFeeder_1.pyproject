@@ -1,0 +1,10 @@
+{
+    "files": [
+        "CameraWindow.qml",
+        "backend.py",
+        "main.py",
+        "main.qml",
+        "src/__init__.py",
+        "src/camera_handler.py"
+    ]
+}
