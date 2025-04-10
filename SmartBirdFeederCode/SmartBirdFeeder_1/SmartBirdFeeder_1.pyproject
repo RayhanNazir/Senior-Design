@@ -1,6 +1,8 @@
 {
     "files": [
         "CameraWindow.qml",
+        "CustomId.qml",
+        "DetailsWindow.qml",
         "backend.py",
         "main.py",
         "main.qml",
