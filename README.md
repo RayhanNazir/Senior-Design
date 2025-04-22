@@ -10,6 +10,8 @@
 - [Project Tasks](#Project-Tasks-and-Timeline)
 - [Project Timeline](#Project-Tasks-and-Timeline)
 - [Slide Show](#slide-show)
+- [Spring Final PPT Presentation](#spring-final-ppt-presentation)
+- [Expo Poster](expo-poster)
 - [Self-Assessment Essays](#self-assessment-essays)
 - [Professional Biographies](#professional-biographies)
 - [Budget](#budget)
@@ -45,6 +47,12 @@ This project aims to design a smart bird feeder that utilizes computer vision an
 
 ## Slide Show
 - [Slide Show](Homework-Assignments/PPT%20Slideshow.pdf)
+
+## Spring Final PPT Presentation
+- [Spring Final PPT Presentation](Homework-Assignments/SpringPresentation.pdf)
+
+## Expo Poster
+- [Expo Poster](Homework-Assignments/ExpoPoster.pdf)
 
 ## Self-Assessment Essays
 - [Self Assessment Essays - Rayhan](Homework-Assignments/RayhanSelfEssay.md)
