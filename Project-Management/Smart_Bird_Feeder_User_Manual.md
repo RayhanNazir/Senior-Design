@@ -3,8 +3,8 @@
 
 ### Version: 1.0  
 ### Framework: Qt 6.8 (PySide6)  
-### Author: *[Your Name]*  
-### Last Updated: *[Date]*
+### Author: Rayhan Nazir, Ethan VanDeusen  
+### Last Updated: 4/21/2025
 
 ---
 
@@ -113,11 +113,4 @@ sightingsModel.clear_database()
 
 ---
 
-## 📞 Contact
 
-For bugs, suggestions, or contributions, please contact:
-
-📧 *youremail@example.com*  
-🔗 *github.com/yourrepo*
-
----
