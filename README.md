@@ -11,7 +11,7 @@
 - [Project Timeline](#Project-Tasks-and-Timeline)
 - [Slide Show](#slide-show)
 - [Spring Final PPT Presentation](#spring-final-ppt-presentation)
-- [Expo Poster](expo-poster)
+- [Expo Poster](#expo-poster)
 - [Self-Assessment Essays](#self-assessment-essays)
 - [Professional Biographies](#professional-biographies)
 - [Budget](#budget)
