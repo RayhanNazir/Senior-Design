@@ -61,7 +61,9 @@ This project aims to design a smart bird feeder that utilizes computer vision an
 ## Self-Assessment Essays
 - [Self Assessment Essays - Rayhan](Homework-Assignments/RayhanSelfEssay.md)
 
-- [Self Assessment Essays - Ethan](Homework-Assignments/Self%20Assessment%20Ethan.md)
+- [Fall Self Assessment Essays - Ethan](Homework-Assignments/Self%20Assessment%20Ethan.md)
+
+- [Spring Self Assessment Essays - Ethan](Homework-Assignments/EthanSpringAssesment)
 
 ## Professional Biographies
 - [Professional Biographies - Rayhan](Homework-Assignments/Rayhan%20Biography.pdf)
