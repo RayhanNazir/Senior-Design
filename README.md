@@ -9,6 +9,7 @@
 - [Design Diagrams](#User-Stories-and-Design-Diagram)
 - [Project Tasks](#Project-Tasks-and-Timeline)
 - [Project Timeline](#Project-Tasks-and-Timeline)
+- [Test Plan](#Test-Plan)
 - [Slide Show](#slide-show)
 - [Spring Final PPT Presentation](#spring-final-ppt-presentation)
 - [Expo Poster](#expo-poster)
@@ -44,6 +45,9 @@ This project aims to design a smart bird feeder that utilizes computer vision an
 
 ## ABET Concerns Essay
 - [ABET Concerns Essay](Homework-Assignments/Project%20Constraints%20Essay.md)
+
+## Test Plan
+- [Test Plan](Homework-Assignments/TestPlan.pdf)
 
 ## Slide Show
 - [Slide Show](Homework-Assignments/PPT%20Slideshow.pdf)
